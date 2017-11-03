@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsAttendreD.png</File>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsAttendreG.png</File>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsDroite.png</File>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsGauche.png</File>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsSautD.png</File>
+    <File>D:/Documents/Téléchargements/ProjetWorms_new/ProjetWorms/ProjetWorms/Content/wormsSautG.png</File>
+  </SourceFiles>
+</SourceFileCollection>
