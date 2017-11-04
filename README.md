@@ -1,4 +1,6 @@
-# Projet_Worms
+﻿# Projet_Worms
+
+![Worms](/SHES/readme_screen.jpg)
 
 ## Contexte du projet
 
