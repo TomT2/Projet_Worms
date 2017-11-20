@@ -13,5 +13,6 @@ namespace ProjetWorms
         public Point FrameSize { get; set; }
         public Point NbFrames { get; set; }
         public int FrameRate { get; set; }
+        public bool Loop { get; set; }
     }
 }

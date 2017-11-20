@@ -66,8 +66,7 @@ namespace ProjetWorms
                 Exit();
 
             // TODO: Add your update logic here
-            KeyboardState state = Keyboard.GetState();
-            worms1.Update(gameTime,state);
+            worms1.Update(gameTime);
             
             base.Update(gameTime);
         }
@@ -82,18 +81,17 @@ namespace ProjetWorms
 
             // TODO: Add your drawing code here
             this.spriteBatch.Begin();
-            KeyboardState state = Keyboard.GetState();
 
-            //Dessine le rectangle
+            //Dessine la hitbox du worms1
             Texture2D rect = new Texture2D(graphics.GraphicsDevice, 60, 60);
             Color[] data = new Color[60 * 60];
             for (int i = 0; i < data.Length; ++i) data[i] = Color.White;
             rect.SetData(data);
-            Vector2 coor = new Vector2(worms1.position.X, worms1.position.Y);
+            Vector2 coor = new Vector2(worms1.Position.X, worms1.Position.Y);
             spriteBatch.Draw(rect, coor, Color.White);
 
-            //Dessine le worms
-            worms1.Draw(gameTime, state);
+            //Dessine le worms1
+            worms1.Draw(gameTime);
 
             this.spriteBatch.End();
             base.Draw(gameTime);
