@@ -11,12 +11,16 @@ namespace ProjetWorms
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Map map;
         Worms worms1;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferWidth = 1250;
+            graphics.PreferredBackBufferHeight = 750;
             Content.RootDirectory = "Content";
+            map = new Map(this);
             worms1 = new Worms(this);
         }
 
@@ -29,6 +33,24 @@ namespace ProjetWorms
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            map.Generate(new int[,]{
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,2 ,2, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,2 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {2 ,2 ,2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2},
+                {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+                {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+            }, 50);
+       
             worms1.Initialise();
             base.Initialize();
         }
@@ -43,6 +65,7 @@ namespace ProjetWorms
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            map.LoadContent(spriteBatch);
             worms1.LoadContent(spriteBatch);
         }
 
@@ -82,6 +105,7 @@ namespace ProjetWorms
             // TODO: Add your drawing code here
             this.spriteBatch.Begin();
 
+            map.Draw(gameTime);
             //Dessine la hitbox du worms1
             Texture2D rect = new Texture2D(graphics.GraphicsDevice, 60, 60);
             Color[] data = new Color[60 * 60];

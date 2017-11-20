@@ -27,7 +27,7 @@ namespace ProjetWorms
             this.sprites = new SimpleAnimationSprite[] { };
 
             this.position.X = 200;
-            this.position.Y = 300;
+            this.position.Y = 540;
         }
 
         public void Initialise()
@@ -131,7 +131,7 @@ namespace ProjetWorms
                 sprites[2].Update(gameTime);
             }
 
-            if (this.position.Y >= 300)
+            if (this.position.Y >= 540)
             {
                 this.hasJumped = false;
             }

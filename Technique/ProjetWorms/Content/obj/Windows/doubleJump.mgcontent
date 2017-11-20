@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/doubleJump.png</SourceFile>
-  <SourceTime>2017-11-20T10:02:21.5417335+01:00</SourceTime>
+  <SourceTime>2017-11-15T13:49:06.6374287+01:00</SourceTime>
   <DestFile>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/bin/Windows/doubleJump.xnb</DestFile>
-  <DestTime>2017-11-20T10:03:52.5522638+01:00</DestTime>
+  <DestTime>2017-11-20T16:15:06.3624105+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
