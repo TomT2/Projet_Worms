@@ -11,6 +11,14 @@ namespace ProjetWorms
 {
     class Worms
     {
+        private Rectangle hitbox;
+
+        public Rectangle Hitbox
+        {
+            get { return hitbox; }
+        }
+
+
         private Point position;
         private Game game;
         private Point velocity;
@@ -18,8 +26,11 @@ namespace ProjetWorms
 
         private bool hasJumped;
         private bool hasDoubleJumped;
+        public bool isBlocked;
+        public int direction;
 
         public Point Position { get => position; set => position = value; }
+        public Point Velocity { get => velocity; set => velocity = value; }
 
         public Worms(Game game)
         {
@@ -27,7 +38,7 @@ namespace ProjetWorms
             this.sprites = new SimpleAnimationSprite[] { };
 
             this.position.X = 200;
-            this.position.Y = 300;
+            this.position.Y = 540;
         }
 
         public void Initialise()
@@ -87,6 +98,7 @@ namespace ProjetWorms
 
         public void Update(GameTime gameTime)
         {
+            this.hitbox = new Rectangle(position.X, position.Y, 60, 60);
             //Update de la position selon la vélocity
             this.position += this.velocity;
             //Update de la positions des sprites
@@ -96,8 +108,9 @@ namespace ProjetWorms
             }
 
             //Right and Left
-            if (Keyboard.GetState().IsKeyDown(Keys.D))
+            if (Keyboard.GetState().IsKeyDown(Keys.D) )
             {
+                direction = 2;
                 this.velocity.X = 2;
                 foreach (SimpleAnimationSprite anim in this.sprites)
                     anim.SpriteEffects = SpriteEffects.None;
@@ -105,6 +118,7 @@ namespace ProjetWorms
             }
             else if (Keyboard.GetState().IsKeyDown(Keys.Q))
             {
+                direction = 1; 
                 this.velocity.X = -2;
                 foreach(SimpleAnimationSprite anim in this.sprites)
                     anim.SpriteEffects = SpriteEffects.FlipHorizontally;
@@ -130,11 +144,11 @@ namespace ProjetWorms
                 this.velocity.Y += 1;
                 sprites[2].Update(gameTime);
             }
-
-            if (this.position.Y >= 300)
+            /*
+            if (this.position.Y >= 540)
             {
                 this.hasJumped = false;
-            }
+            }*/
 
             if (this.hasJumped == false)
             {
@@ -143,7 +157,7 @@ namespace ProjetWorms
             }
 
             //Double Jump
-            if(Keyboard.GetState().IsKeyDown(Keys.Space) && this.hasJumped == true && this.hasDoubleJumped == false && this.velocity.Y >= 0 )
+            if(Keyboard.GetState().IsKeyDown(Keys.Space) && this.hasJumped == true && this.hasDoubleJumped == false && this.velocity.Y >= 0 && !isBlocked)
             {
                 sprites[3].Update(gameTime);
                 this.position.Y -= 20;
@@ -187,5 +201,35 @@ namespace ProjetWorms
             if (this.hasDoubleJumped == true)
                 sprites[3].Draw(time);
         }
+        /*
+        public void Collision(Rectangle newRectangle, int xOffset, int yOffset)
+        {
+            if (hitbox.TouchTopOf(newRectangle))
+            {
+                hitbox.Y = newRectangle.Y - hitbox.Height;
+                velocity.Y = 0;
+                hasJumped = false;
+                
+            }
+            if (hitbox.TouchLeftOf(newRectangle))
+            {
+                position.X = newRectangle.X - hitbox.Width - 2;
+            }
+            if (hitbox.TouchRightOf(newRectangle))
+            {
+                position.X = newRectangle.X + hitbox.Width + 2;
+            }
+            if (hitbox.TouchBottomOf(newRectangle))
+            {
+                velocity.Y = 1;
+            }
+
+            if (position.X < 0) position.X = 0;
+            if (position.X > xOffset - hitbox.Width) position.X = xOffset - hitbox.Width;
+            if (position.Y < 0) velocity.Y = 1;
+            if (position.Y > yOffset - hitbox.Height) position.Y = yOffset - hitbox.Height;
+
+        }
+        */
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
 
 namespace ProjetWorms
 {
@@ -11,13 +12,21 @@ namespace ProjetWorms
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Map map;
         Worms worms1;
+        List<Worms> worms = new List<Worms>();
+        Physic physic;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferWidth = 1250;
+            graphics.PreferredBackBufferHeight = 750;
             Content.RootDirectory = "Content";
+            map = new Map(this);
             worms1 = new Worms(this);
+            worms.Add(worms1);
+            physic = new Physic(worms, map);
         }
 
         /// <summary>
@@ -29,6 +38,24 @@ namespace ProjetWorms
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            map.Generate(new int[,]{
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,2 ,2, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,2 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {2 ,2 ,2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2},
+                {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+                {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
+            }, 50);
+       
             worms1.Initialise();
             base.Initialize();
         }
@@ -43,6 +70,7 @@ namespace ProjetWorms
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            map.LoadContent(spriteBatch);
             worms1.LoadContent(spriteBatch);
         }
 
@@ -66,8 +94,15 @@ namespace ProjetWorms
                 Exit();
 
             // TODO: Add your update logic here
-            worms1.Update(gameTime);
             
+            worms1.Update(gameTime);
+            physic.Update();
+            /*foreach(Tiles tile in map.Tiles)
+            {
+                worms1.Collision(tile.Rectangle, map.Width, map.Height);
+            }*/
+
+
             base.Update(gameTime);
         }
 
@@ -82,6 +117,7 @@ namespace ProjetWorms
             // TODO: Add your drawing code here
             this.spriteBatch.Begin();
 
+            map.Draw(gameTime);
             //Dessine la hitbox du worms1
             Texture2D rect = new Texture2D(graphics.GraphicsDevice, 60, 60);
             Color[] data = new Color[60 * 60];

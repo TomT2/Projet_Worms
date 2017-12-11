@@ -122,3 +122,5 @@ D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj
 D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
 D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
 D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Projet_Worms\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Projet_Worms\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
