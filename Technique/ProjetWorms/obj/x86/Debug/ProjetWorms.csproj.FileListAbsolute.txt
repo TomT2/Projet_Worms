@@ -124,3 +124,663 @@ D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
 D:\Documents\Projet_Worms\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
 D:\Documents\Projet_Worms\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
 D:\Documents\Projet_Worms\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version6.3\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version7\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version8\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version10\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Téléchargements\Technique (10)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version13.1\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Téléchargements\Technique (12)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version13.2\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version14\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bazooka.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\missile.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bazooka.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\missile.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\boule.xnb
+D:\Documents\Bureau\Projet_M1\Versions\Version11to20\Version15\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\boule2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\arbre.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\city.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cloud.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\doubleJump.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\nuage.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sautDroite.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sprite1.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteDroite.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\spriteGauche.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bazooka.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\bg2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\boule.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\boule2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c1.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c3.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c4.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\c5.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds1.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\clouds2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube1.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube11.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube2.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\cube22.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\durt.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\grass.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\missile.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\moutains.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sky.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\sol.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsAttendreD.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsDroite.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\Content\wormsSautD.xnb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\ProjetWorms.pdb
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csprojResolveAssemblyReference.cache
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.csproj.CoreCompileInputs.cache
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.exe
+D:\Documents\Téléchargements\Technique (16)\Technique\ProjetWorms\obj\x86\Debug\ProjetWorms.pdb

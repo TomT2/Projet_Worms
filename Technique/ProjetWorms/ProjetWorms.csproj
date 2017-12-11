@@ -41,15 +41,22 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Game1.cs" />
-    <Compile Include="Map.cs" />
-    <Compile Include="Physic.cs" />
+    <Compile Include="TheGame\Weapon.cs" />
+    <Compile Include="TheGame\Background.cs" />
+    <Compile Include="TheGame\BackgroundManagement.cs" />
+    <Compile Include="TheGame\Bazooka.cs" />
+    <Compile Include="TheGame\Entity.cs" />
+    <Compile Include="TheGame\PhysicEntity.cs" />
+    <Compile Include="MonoGameMain.cs" />
+    <Compile Include="TheGame\Map.cs" />
+    <Compile Include="TheGame\Missile.cs" />
+    <Compile Include="TheGame\Physic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleAnimationDefinition.cs" />
-    <Compile Include="SimpleAnimationSprite.cs" />
-    <Compile Include="Tiles.cs" />
-    <Compile Include="Worms.cs" />
+    <Compile Include="TheGame\SpriteDefinition.cs" />
+    <Compile Include="TheGame\Sprite.cs" />
+    <Compile Include="TheGame\Tiles.cs" />
+    <Compile Include="TheGame\Worms.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">

@@ -4,11 +4,30 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/wormsAttendreD.png</File>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/wormsDroite.png</File>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/wormsSautD.png</File>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/doubleJump.png</File>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/durt.PNG</File>
-    <File>D:/Documents/Projet_Worms/Technique/ProjetWorms/Content/grass.PNG</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/wormsAttendreD.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/wormsSautD.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/durt.PNG</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/grass.PNG</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/wormsDroite.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/clouds1.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/clouds2.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/moutains.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/sky.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/sol.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/bg.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/bg2.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/cube1.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/cube2.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/cube11.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/cube22.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/c1.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/c2.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/c3.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/c4.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/c5.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/missile.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/bazooka.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/boule.png</File>
+    <File>D:/Documents/Téléchargements/Technique (16)/Technique/ProjetWorms/Content/boule2.png</File>
   </SourceFiles>
 </SourceFileCollection>
