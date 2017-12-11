@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
 
 namespace ProjetWorms
 {
@@ -13,6 +14,8 @@ namespace ProjetWorms
         SpriteBatch spriteBatch;
         Map map;
         Worms worms1;
+        List<Worms> worms = new List<Worms>();
+        Physic physic;
 
         public Game1()
         {
@@ -22,6 +25,8 @@ namespace ProjetWorms
             Content.RootDirectory = "Content";
             map = new Map(this);
             worms1 = new Worms(this);
+            worms.Add(worms1);
+            physic = new Physic(worms, map);
         }
 
         /// <summary>
@@ -44,8 +49,8 @@ namespace ProjetWorms
                 {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
                 {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
                 {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                {0 ,0 ,0 ,0, 0, 0, 0, 0, 0, 0,0 ,0 ,0 ,2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
                 {2 ,2 ,2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2},
                 {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
                 {1 ,1 ,1 ,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
@@ -89,8 +94,15 @@ namespace ProjetWorms
                 Exit();
 
             // TODO: Add your update logic here
-            worms1.Update(gameTime);
             
+            worms1.Update(gameTime);
+            physic.Update();
+            /*foreach(Tiles tile in map.Tiles)
+            {
+                worms1.Collision(tile.Rectangle, map.Width, map.Height);
+            }*/
+
+
             base.Update(gameTime);
         }
 

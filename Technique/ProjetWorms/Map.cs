@@ -26,9 +26,9 @@ namespace ProjetWorms
 
         public int Height
         {
-            get { return height;  }
+            get { return height; }
         }
-        
+
         public Map(Game pgame)
         {
             this.game = pgame;
